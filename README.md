@@ -9,9 +9,9 @@
 
 <p align="center">
 	<img src="https://img.shields.io/badge/jdk-1.8-orange.svg"/>
-    <img src="https://img.shields.io/badge/servlet-5.x-lightgrey.svg"/>
-    <img src="https://img.shields.io/badge/jsp-3.x-blue.svg"/>
-    <img src="https://img.shields.io/badge/jdbc-5.x-yellow.svg"/>
+    <img src="https://img.shields.io/badge/spring-5.x-lightgrey.svg"/>
+    <img src="https://img.shields.io/badge/springmvc-3.x-blue.svg"/>
+    <img src="https://img.shields.io/badge/mybatis-5.x-yellow.svg"/>
 </p>
 
 ## 简介
@@ -20,11 +20,11 @@
 >
 > 提供1.远程部署/2.修改代码/3.设计文档指导/4.框架代码讲解等服务
 >
-> 前端登录地址：http://localhost:8080/shop/login.jsp
+> 前端登录地址：http://localhost:8080/login.html
 >
 > 用户名: user   密码: 123456
 >
-> 后端管理地址: http://localhost:8080/shop/manage/login.jsp
+> 后端管理地址: http://localhost:8080/admin/login.html
 >
 > 用户名: admin   密码: 123456
 >
@@ -46,13 +46,17 @@
 
 ## 缩略图
 
-![](https://img2023.cnblogs.com/blog/588112/202310/588112-20231024164625054-1490329270.png)
-![](https://img2023.cnblogs.com/blog/588112/202310/588112-20231024164636005-260915493.png)
-![](https://img2023.cnblogs.com/blog/588112/202310/588112-20231024164642092-1475093964.png)
-![](https://img2023.cnblogs.com/blog/588112/202310/588112-20231024164710640-145056900.png)
-![](https://img2023.cnblogs.com/blog/588112/202310/588112-20231024164841517-2080006709.png)
-![](https://img2023.cnblogs.com/blog/588112/202310/588112-20231024164845002-627360042.png)
-![](https://img2023.cnblogs.com/blog/588112/202310/588112-20231024164848745-1138019334.png)
+![](https://img2023.cnblogs.com/blog/588112/202310/588112-20231024202213285-2011059266.png)
+![](https://img2023.cnblogs.com/blog/588112/202310/588112-20231024202218099-773736867.png)
+![](https://img2023.cnblogs.com/blog/588112/202310/588112-20231024202223208-306675489.png)
+![](https://img2023.cnblogs.com/blog/588112/202310/588112-20231024202227309-1884584172.png)
+![](https://img2023.cnblogs.com/blog/588112/202310/588112-20231024202232573-365388866.png)
+![](https://img2023.cnblogs.com/blog/588112/202310/588112-20231024202236562-1591983001.png)
+![](https://img2023.cnblogs.com/blog/588112/202310/588112-20231024202240023-601420433.png)
+![](https://img2023.cnblogs.com/blog/588112/202310/588112-20231024202243515-1402137810.png)
+![](https://img2023.cnblogs.com/blog/588112/202310/588112-20231024202247613-1833745454.png)
+![](https://img2023.cnblogs.com/blog/588112/202310/588112-20231024202251721-32733274.png)
+![](https://img2023.cnblogs.com/blog/588112/202310/588112-20231024202255422-366891754.png)
 
 
 
